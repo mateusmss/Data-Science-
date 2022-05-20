@@ -1,0 +1,15 @@
+Estudo de caso dos impactos da Covid-19 na economia.
+
+O dataset foi baixado do Kaggle e possui as seguintes categorias de dados:
+1. Código do país
+2. Nome dos países
+3. Data do registro
+4. IDH dos países
+5. Casos diários de covid19
+6. Mortes diárias de covid-19
+7. Indice de rigor contra covid-19
+8. População dos países
+9. PIB per capita dos países
+
+Link de download do dataset no Kaggle: https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy
+
